@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dev-minds0987
-- 🌱 I’m currently coding@minds0987 wp
+- 👋 Hi, I am @dev-minds0987 (A bot account)
+- 🌱 used by @minds0987 wp
 - 📫 To join minds0987 wp mail your details to minds0987@gmail.com
 <!---
 dev-minds0987/dev-minds0987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
